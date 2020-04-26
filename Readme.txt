@@ -11,4 +11,4 @@
 
 
 
-Adobe Colo находится десь: https://color.adobe.com/create 
+Adobe Color находится десь: https://color.adobe.com/create 
